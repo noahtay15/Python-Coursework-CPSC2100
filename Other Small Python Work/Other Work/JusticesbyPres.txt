@@ -1,0 +1,39 @@
+John Adams : 3
+John Q. Adams : 1
+Chester Arthur : 2
+James Buchanan : 1
+Martin Van Buren : 3
+George W. Bush : 2
+George H. W. Bush : 2
+Grover Cleveland : 4
+Bill Clinton : 2
+Calvin Coolidge : 1
+Dwight Eisenhower : 5
+Millard Fillmore : 1
+Gerald Ford : 1
+James Garfield : 1
+Ulysses Grant : 4
+Warren Harding : 4
+Benjamin Harrison : 4
+Rutherford Hayes : 2
+Herbert Hoover : 2
+Andrew Jackson : 5
+Thomas Jefferson : 3
+Lyndon Johnson : 2
+John Kennedy : 2
+Abraham Lincoln : 5
+James Madison : 2
+William McKinley : 1
+James Monroe : 1
+Richard Nixon : 4
+Barack Obama : 2
+Franklin Pierce : 1
+James Polk : 2
+Ronald Reagan : 3
+Franklin Roosevelt : 8
+Theodore Roosevelt : 3
+William Taft : 5
+Harry Truman : 4
+John Tyler : 1
+George Washington : 10
+Woodrow Wilson : 3
